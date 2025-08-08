@@ -10,7 +10,7 @@
 ## 🌟 About Me
 
 - 🎓 B.Tech CSE @ **SR University**, CGPA: **9.5**
-- 🔭 Intern at **Infosys Springboard**, **IDE Kalam**, **AICTE Cloud Virtual**
+- 🔭 Intern at  **IDE Kalam**, **AICTE Cloud Virtual**
 - 💻 Experienced in **AI/ML, NLP, Deep Learning, Cloud, Web Dev**
 - 💡 Built AI apps for recruitment, water potability, maternal health risk, and more
 - 📜 AWS, Azure, Microsoft, CISCO & NPTEL certified
