@@ -97,16 +97,26 @@ Terminal-based billing system in C with GST, payment tracking, file-based histor
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saisruthikunduru&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=saisruthikunduru&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=7200" 
+    alt="GitHub Stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisruthikunduru&layout=compact&theme=tokyonight&langs_count=10&hide_border=false" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisruthikunduru&layout=compact&theme=tokyonight&langs_count=10&hide_border=false&cache_seconds=7200" 
+    alt="Top Languages" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saisruthikunduru&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=saisruthikunduru&theme=tokyonight&hide_border=false&cache_seconds=7200" 
+    alt="GitHub Streak" 
+  />
 </p>
+
 
 ---
 
