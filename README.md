@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Sruthi Kunduru</h1>
-<h3 align="center">AI/ML Enthusiast | Cloud & Full Stack Developer | Intern @ Infosys & IDE Kalam</h3>
+<h3 align="center">AI/ML Enthusiast | Cloud & Full Stack Developer |/h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=B.Tech+CS+Student+@+SR+University;AI+%26+ML+Explorer;Full+Stack+Developer;Cloud+Intern+@+AICTE;Passionate+Tech+Learner" alt="Typing SVG" />
